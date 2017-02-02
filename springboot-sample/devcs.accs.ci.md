@@ -136,4 +136,4 @@ Clone your newly created Git repository hosted on Developer Cloud Service to you
 
 ----
 
-+ [**Powrót - koniec LAB1**](../../../)
++ [**Powrót - koniec LAB1**](../README.md)
