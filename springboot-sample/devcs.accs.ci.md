@@ -134,3 +134,6 @@ Prerequisites: Git client, Text editor
 Clone your newly created Git repository hosted on Developer Cloud Service to your local machine using basic or your favourite Git tool. Make small changes for example in the JSP file. Push changes to DevCS remote repository, execute Build again and check the changes on the redeployed application.
 
 
+----
+
++ [**Powrót - koniec LAB1**](../../../)
