@@ -1,6 +1,20 @@
 ![](common/images/customer.logo.png)
 ---
-# ORACLE Cloud-Native DevOps workshop #
+# Tworzenie aplikacji w Oracle Public Cloud #
+
+## Agenda ##
+
+| Godzina   | Temat                                                                                      |
+|:---------:|:-------------------------------------------------------------------------------------------|
+| 09:30     | Rejestracja i powitanie                                                                    |
+| 10:00     | Prezentacja: Rozwiązania Oracle Cloud wspierające budowanie natywnych aplikacji chmurowych |
+| 10:30     | Lab1: CI/CD z wykorzystaniem usług PaaS                                                    |
+| 11:30     | Przerwa kawowa                                                                             |
+| 11:45     | Lab2: Integracja narzędzi IDE z Developer Cloud Service na przykładzie Eclipse             |
+| 12:30     | Prezentacja: monitorowanie wydajności aplikacji w chmurze                                  |
+| 13:00     | Obiad                                                                                      |
+| 13:45     | Lab3: Implementacja nowej funkcjonalności w chmurze (klient REST)                          |
+| 15:45     | Podsumowanie warsztatów                                                                    |
 
 ## Introduction ##
 
