@@ -30,12 +30,14 @@
 
 + [Implement new function (REST client) in SpringBoot sample application using Service Bindings to access Oracle Java Cloud Services](devops-bind/README.md)
 
+----
 
+## Dodatkowe materiały ##
 
+#### Creating Database Cloud Service & Oracle Java Cloud Service####
 
-
-
-
++ [Create Database Cloud Service Instance using user interface](dbcs-create/README.md)
++ [Create Java Cloud Service Instance using user interface](jcs-create/README.md)
 
 
 
