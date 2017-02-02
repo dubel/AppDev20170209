@@ -22,11 +22,11 @@
 + [Create Oracle Developer Cloud Service project for SpringBoot application](springboot-sample/create.devcs.project.md)
 + [Create continuous build integration using Oracle Developer Cloud Service and Oracle Application Container Cloud Service](springboot-sample/devcs.accs.ci.md)
 
-####Lab2: Integracja narzędzi IDE z Developer Cloud Service na przykładzie Eclipse####
+####LAB2: Integracja narzędzi IDE z Developer Cloud Service na przykładzie Eclipse####
 
 + [Using Eclipse IDE (Oracle Enterprise Pack for Eclipse) with Oracle Developer Cloud Service](oepe/setup.oepe.md)
 
-####Lab3: Implementacja nowej funkcjonalności w chmurze (klient REST)####
+####LAB3: Implementacja nowej funkcjonalności w chmurze (klient REST)####
 
 + [Implement new function (REST client) in SpringBoot sample application using Service Bindings to access Oracle Java Cloud Services](devops-bind/README.md)
 
