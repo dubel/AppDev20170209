@@ -1,6 +1,6 @@
 ![](../common/images/customer.logo.png)
 ---
-# ORACLE Cloud-Native DevOps workshop #
+# Tworzenie aplikacji w Oracle Public Cloud #
 
 ## Create Oracle Developer Cloud Service project using initial git repository ##
 
