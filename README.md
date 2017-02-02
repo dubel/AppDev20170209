@@ -16,6 +16,37 @@
 | 13:45     | Lab3: Implementacja nowej funkcjonalności w chmurze (klient REST)                          |
 | 15:45     | Podsumowanie warsztatów                                                                    |
 
+
+####LAB1: CI/CD z wykorzystaniem usług PaaS###
+
++ [Create Oracle Developer Cloud Service project for SpringBoot application](springboot-sample/create.devcs.project.md)
++ [Create continuous build integration using Oracle Developer Cloud Service and Oracle Application Container Cloud Service](springboot-sample/devcs.accs.ci.md)
+
+####Lab2: Integracja narzędzi IDE z Developer Cloud Service na przykładzie Eclipse####
+
++ [Using Eclipse IDE (Oracle Enterprise Pack for Eclipse) with Oracle Developer Cloud Service](oepe/setup.oepe.md)
+
+####Lab3: Implementacja nowej funkcjonalności w chmurze (klient REST)####
+
++ [Implement new function (REST client) in SpringBoot sample application using Service Bindings to access Oracle Java Cloud Services](devops-bind/README.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+####Poniżej oryginalny README.md dla porównania i skasowania####
+----
+
 ## Introduction ##
 
 Oracle Cloud is the industry’s broadest and most integrated public cloud. It offers best-in-class services across software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS), and even lets you put Oracle Cloud in your own data center. Oracle Cloud helps organizations drive innovation and business transformation by increasing business agility, lowering costs, and reducing IT complexity. The workshop content shows different aspects of Application Development in the cloud with different set of Oracle Cloud Services.
