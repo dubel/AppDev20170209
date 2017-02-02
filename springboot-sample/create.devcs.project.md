@@ -55,7 +55,7 @@ Now click **Finish** to create the project and to clone the specified repository
 
 ----
 
-+ [**LAB1 - Następne zadanie**: Create continuous build integration using Oracle Developer Cloud Service and Oracle Application Container Cloud Service](devcs.accs.ci.md)
+[**LAB1 - Następne zadanie**: Create continuous build integration using Oracle Developer Cloud Service and Oracle Application Container Cloud Service](devcs.accs.ci.md)
 
-+ [**Powrót**](../README.md)
+[**Powrót - koniec LAB1**](../README.md)
 
