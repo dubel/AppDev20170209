@@ -29,6 +29,7 @@
 
 ####LAB3: Implementacja nowej funkcjonalności w chmurze (klient REST)####
 
++ [Deploy JEE sample application to Oracle Java Cloud Service using Admin console](jcs-deploy/README.md)
 + [Implement new function (REST client) in SpringBoot sample application using Service Bindings to access Oracle Java Cloud Services](devops-bind/README.md)
 
 ----
