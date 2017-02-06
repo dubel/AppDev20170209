@@ -441,3 +441,7 @@ On the top right area you can see the comment of the Git commit. If you remember
 Please note that in a project, you can define products, components, owners of components, releases, and tags, of your project before creating and assigning issues to project members. You can define multiple product categories, components, and sub-components; customize the releases; provide custom tags; and add custom fields for your project. For more information see the [documentation](http://docs.oracle.com/cloud/latest/devcs_common/CSDCS/GUID-FFB070E5-DA29-43EB-A0CA-3FA8BB3FC3E1.htm#CSDCS3146).
 
 
+
+----
+
+[**Powrót - koniec LAB3**](../README.md)
