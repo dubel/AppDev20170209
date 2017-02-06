@@ -195,3 +195,10 @@ Open a browser and write the following URL: `https://<public-ip-address>/TechCo-
 You should now see the home page of the sample application.
 
 ![](images/28.png)
+
+
+----
+
+[**LAB3 - Następne zadanie**: Implement new function (REST client) in SpringBoot sample application using Service Bindings to access Oracle Java Cloud Services](../devops-bind/README.md)
+
+[**Powrót**](../README.md)
