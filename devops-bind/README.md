@@ -1,7 +1,7 @@
 ![](../common/images/customer.logo.png)
 ---
 # Tworzenie aplikacji w Oracle Public Cloud #
-----
+-----
 ## Development lifecycle management using Eclipse IDE (Oracle Enterprise Pack for Eclipse) and Oracle Developer Cloud Service ##
 
 ### Introduction ###
