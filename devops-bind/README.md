@@ -88,7 +88,7 @@ Here is the time to code. In the *springbootdemo* project open the **Java Resour
 
 	registry.addViewController("/restcall").setViewName("restcall");
 
-The WelcomeController.class should look like as the following:
+The WebConfig.java should look like as the following:
 
 	package com.example.springboot.config;
 	
