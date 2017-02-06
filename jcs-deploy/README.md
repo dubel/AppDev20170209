@@ -1,6 +1,6 @@
 ![](../common/images/customer.logo.png)
 ---
-# ORACLE Cloud-Native DevOps workshop #
+# Tworzenie aplikacji w Oracle Public Cloud #
 -----
 ## Deploy TechCo (Java EE) Demo Application to Java Cloud Service ##
 
