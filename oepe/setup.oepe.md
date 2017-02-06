@@ -137,3 +137,7 @@ Now check the changes of the home page of the application. Open the tree view my
 New browser (tab) is opened and you should see the changes (red text) on the application's home page.
 
 ![](images/22.png)
+
+----
+
+[**Powrót - koniec LAB2**](../README.md)
