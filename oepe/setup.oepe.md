@@ -1,6 +1,6 @@
 ![](../common/images/customer.logo.png)
 ---
-# ORACLE Cloud-Native DevOps workshop #
+# Tworzenie aplikacji w Oracle Public Cloud #
 -----
 ## Using Eclipse IDE (Oracle Enterprise Pack for Eclipse) with Oracle Developer Cloud Service ##
 
