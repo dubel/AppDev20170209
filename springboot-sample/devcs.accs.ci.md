@@ -1,7 +1,7 @@
 ![](../common/images/customer.logo.png)
 ---
 # Tworzenie aplikacji w Oracle Public Cloud #
-
+-----
 ## Deploy SpringBoot demo application to Application Container Cloud Services using Developer Cloud Services ##
 
 ### About this tutorial ###
