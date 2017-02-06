@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
 
   <servlet>
-    <servlet-name>CXF</servlet-name>
     <display-name>CXF</display-name>
+    <servlet-name>CXF</servlet-name>
     <servlet-class>org.apache.cxf.jaxrs.servlet.CXFNonSpringJaxrsServlet</servlet-class>
     <init-param>
        <param-name>jaxrs.serviceClasses</param-name>
