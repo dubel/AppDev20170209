@@ -16,7 +16,7 @@
 | 13:45     | Lab3: Implementacja nowej funkcjonalności w chmurze (klient REST)                          |
 | 15:45     | Podsumowanie warsztatów                                                                    |
 
-## Laboratoria ##
+## Ćwiczenia ##
 
 ####LAB1: CI/CD z wykorzystaniem usług PaaS###
 
